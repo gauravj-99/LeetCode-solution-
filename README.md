@@ -4,7 +4,7 @@ My LeetCode solution
 
 1. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1582956849)
 2. [1. Two Sum](https://leetcode.com/problems/two-sum/)
-3. [15. 3Sum](https://leetcode.com/problems/3sum/)
+3. [15. 3Sum](https://leetcode.com/problems/3sum/submissions/1592054620)
 4. [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 5. [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 6. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
