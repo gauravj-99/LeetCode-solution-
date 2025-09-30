@@ -3,7 +3,8 @@
 
 ## Question
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-[Solution link] (www.google.com)
+
+[Solution link]:(www.google.com)
 ## Solution (C++)
 ```cpp
 class Solution {
