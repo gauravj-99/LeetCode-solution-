@@ -2,7 +2,7 @@
 My LeetCode solution 
 ## Array & Sorting
 
-1. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+1. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1582956849)
 2. [1. Two Sum](https://leetcode.com/problems/two-sum/)
 3. [15. 3Sum](https://leetcode.com/problems/3sum/)
 4. [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
