@@ -41,4 +41,28 @@ Click on any problem to view my solution file.
 ## 🔹 BINARY SEARCH
 - [441. Arranging Coins](.[/BinarySearch/441_Arranging_Coins.cpp](https://leetcode.com/problems/arranging-coins/submissions/1754260530))
 - [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1774881285)
-- 
+- [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1609718533)
+- [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1774921690)
+- [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1777607885)
+- [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/1777634575)
+- [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1777649680)
+- [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777693311)
+- [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/1778211077)
+- [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1781094042)
+- [875. Koko Eating Bananas](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1781094042/)NA
+- [74. Search a 2D Matrix](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1781094042/)NA
+
+## LINKED LIST
+- [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1665953066)
+- [876. Middle of the Linked List]()na
+- [19. Remove Nth Node From End of List]()na
+- [206. Reverse Linked List]()na
+- [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/1784932839)
+- [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/1777112506)
+- [142. Linked List Cycle II]()na
+- [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1784963118)
+- [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/1632073151)
+- [25. Reverse Nodes in k-Group]()na
+- [61. Rotate List]()na
+- [138. Copy List with Random Pointer]()na
+- [Flattening a Linked List (GFG PRACTICE)]()na
